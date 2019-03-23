@@ -1,0 +1,20 @@
+{
+  "name": "mochalearn",
+  "version": "1.0.0",
+  "description": "jsong mocha learn",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "jsong",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "should": "^13.2.3"
+  },
+  "devDependencies": {}
+}
